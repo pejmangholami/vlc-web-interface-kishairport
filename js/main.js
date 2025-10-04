@@ -76,7 +76,7 @@ function StartHere() {
         });
     });
 
-    setInterval(updateStatus, 1000);
+    setInterval(updateStatus, 3000);
 }
 
 function formatTime(time) {
